@@ -4,10 +4,7 @@ title:  "Adam Smith’s Benevolence Puzzle!"
 date:   2023-02-21 21:28:32 +0800
 categories: National Review
 ---
-<div style='text-align:justify'>
-> <font size=5>The father of economics understood people to be both self-interested and sympathetic to others. Is there a contradiction in Smith's thought?</font>
-
-<font size=5>
+The father of economics understood people to be both self-interested and sympathetic to others. Is there a contradiction in Smith's thought?
 
 To begin the series, we reflect on benevolence in Adam Smith. What roles does it play in his thought? The question is worth addressing in light of the common charge of heartlessness levied against those not on the political Left. And it leads us into an apparent contradiction.
 
@@ -35,7 +32,7 @@ In the second thought experiment, when the man of humanity is placed in an activ
 
 Why the different outcome? Smith gives his answer:
 
-> It is a stronger power, a more forcible motive, which exerts itself [in active situations]. It is reason, principle, conscience, the inhabitant of the breast, the man within, the great judge and arbiter of our conduct. It is he who, whenever we are about to act so as to affect the happiness of others, calls to us, with a voice capable of astonishing the most presumptuous of our passions, that we are but one of the multitude, in no respect better than any other in it. . . . It is from him only that we learn the real littleness of ourselves, and of whatever relates to ourselves, and the natural misrepresentations of self-love can be corrected only by the eye of this impartial spectator.
+It is a stronger power, a more forcible motive, which exerts itself [in active situations]. It is reason, principle, conscience, the inhabitant of the breast, the man within, the great judge and arbiter of our conduct. It is he who, whenever we are about to act so as to affect the happiness of others, calls to us, with a voice capable of astonishing the most presumptuous of our passions, that we are but one of the multitude, in no respect better than any other in it. . . . It is from him only that we learn the real littleness of ourselves, and of whatever relates to ourselves, and the natural misrepresentations of self-love can be corrected only by the eye of this impartial spectator.
 
 Although he feels but a feeble spark of benevolence, the man of humanity knows that if he were to selfishly choose his own comfort over the lives of millions, his conscience, the man within the breast, would justly condemn him. The judgment of his conscience flows from his estimation of the judgment of God (or a godlike spectator), the seat of universal benevolence. Smith speaks of the conscience as a “representative” of the supreme impartial spectator.
 
@@ -56,5 +53,3 @@ In allowing each to pursue his interest his own way, within the bounds of justic
 Thus benevolence, we see, plays multiple roles in Adam Smith. Humans are by no means devoid of benevolence. But the heavy lifting comes from our natural sense of accountability, through the judgments of our peers and then through conscience, to a being who is universally benevolent. The political economy of WN for Smith is properly conceived as an extension of the ethics of TMS in that it attempts to illustrate the political and social sensibilities that leverage our limited knowledge and affections in service of the good.
 
 In his writings, Smith projects an outlook, a set of sensibilities that recommend certain cultural attitudes and political inclinations. In our times, these sensibilities require rekindling. Three hundred years after Smith’s birth, his outlook still serves as a hearth for us to gather around and edify ourselves.
-</font>
-</div>
