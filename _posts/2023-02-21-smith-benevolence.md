@@ -1,7 +1,14 @@
+
+---
+layout: post
+title:  "Adam Smith’s Benevolence Puzzle!"
+date:   2023-02-21 21:28:32 +0800
+categories: National Review
+---
+
+
 <div style='text-align:justify'>
 
-
-# Adam Smith’s Benevolence Puzzle
 
 > <font size=5>The father of economics understood people to be both self-interested and sympathetic to others. Is there a contradiction in Smith's thought?</font>
 
