@@ -14,9 +14,11 @@ That charge of inconsistency has been overturned by several generations of schol
 
 In TMS, Smith develops an ethical framework culminating in an exhortation to serve what he calls “universal benevolence.” In WN, he advances what he calls “the liberal plan of equality, liberty, and justice,” which allows each to “pursue his own interest his own way.” That plan authorizes and encourages people to focus on maintaining and improving the health and well-being of themselves, their families, and familiars. Are these aspects of his two works inconsistent? How can Smith at once affirm our moral duty to universal benevolence and encourage us to mostly mind our own business?
 
+
 ## Wokesters, Wake!
 
 A partial resolution comes as we tend to Smith’s insights on the limits of knowledge. Our abilities to improve the situations of others normally depend on knowledge of circumstances. Such knowledge declines very sharply the further we get from our own affairs. If your efforts at a distance are likely to be ineffective, Smith teaches, then focus on where they are effective — close to home, in your spheres of immediate influence.
+
 
 But the partial resolution prompts the question: Is effective benevolence simply reduced to minding one’s own business? How can this be?
 
@@ -53,3 +55,4 @@ In allowing each to pursue his interest his own way, within the bounds of justic
 Thus benevolence, we see, plays multiple roles in Adam Smith. Humans are by no means devoid of benevolence. But the heavy lifting comes from our natural sense of accountability, through the judgments of our peers and then through conscience, to a being who is universally benevolent. The political economy of WN for Smith is properly conceived as an extension of the ethics of TMS in that it attempts to illustrate the political and social sensibilities that leverage our limited knowledge and affections in service of the good.
 
 In his writings, Smith projects an outlook, a set of sensibilities that recommend certain cultural attitudes and political inclinations. In our times, these sensibilities require rekindling. Three hundred years after Smith’s birth, his outlook still serves as a hearth for us to gather around and edify ourselves.
+
